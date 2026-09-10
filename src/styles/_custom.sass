@@ -94,9 +94,18 @@ figcaption, table caption
 .imgw-140
   width: 140px
   margin: 0 auto
+.imgw-190
+  width: 190px
+  margin: 0 auto
 
 .bg-slider
   background: url('../assets/curso/common/bg-slider-short.png')
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+
+.bg-audio
+  background: url('../assets/curso/common/bg-audio.png')
   background-size: cover
   background-position: center
   background-repeat: no-repeat
@@ -185,3 +194,17 @@ figcaption, table caption
 
 .tabs-b__tab
   background-color: $color-secundario-s5
+
+.tarjeta-audio
+  background-color: $white
+  &__texto
+    color: $color-sistema-texto !important
+
+  .tarjeta-audio__input input[type=range]
+    background-color: $color-secundario !important
+
+  .audio__btn
+    background-color: $color-acento-botones !important
+
+  &__tiempo
+    color: $color-sistema-texto !important
