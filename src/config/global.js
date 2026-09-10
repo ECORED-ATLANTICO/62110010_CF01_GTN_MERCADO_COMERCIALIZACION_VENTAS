@@ -1,17 +1,18 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
+    Name: 'Planeación comercial y de mercadeo con <em>Canvas</em>',
+    Description:
+      'El componente formativo aborda los fundamentos de la planeación comercial y de mercadeo mediante la aplicación del modelo de negocios <em>Canvas</em> como herramienta para el análisis y diseño estratégico. Integra elementos como la propuesta de valor, la curva de valor, la segmentación de mercados, el posicionamiento, el análisis del entorno y la formulación de estrategias comerciales, con el propósito de fortalecer la toma de decisiones y la estructuración de planes de acción orientados al logro de los objetivos organizacionales.',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.png',
       },
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.png',
       },
     ],
   },
@@ -31,40 +32,136 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Modelo de negocio <em>Canvas</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto y componentes',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Factores y atributos clave del negocio',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Aplicación empresarial',
+            hash: 't_1_3',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Propuesta de valor y ventaja competitiva ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Mapa de empatía',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Curva de valor y propuesta de valor',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Ventaja competitiva',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Análisis estratégico y oportunidades de mercado',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Análisis interno y externo de la empresa',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Matriz DOFA, PEST y <em>Benchmark</em>',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Oportunidades de mercado',
+            hash: 't_3_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Segmentación y posicionamiento de mercado ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Segmentación y mercado objetivo',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Posicionamiento y diferenciación',
+            hash: 't_4_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo: '<em>Marketing</em> y estrategias de crecimiento',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Marketing estratégico y marketing operativo',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Marketing mix',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Estrategias de mercado y crecimiento empresarial',
+            hash: 't_5_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Estrategias comerciales y de mercadeo',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo:
+              '<em>Marketing</em> experiencial, mercadotecnia directa y <em>neuromarketing</em>',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: '<em>Merchandising, store planning</em> y <em>layout</em>',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Señalética, escaparatismo e iluminación',
+            hash: 't_6_3',
+          },
+        ],
       },
     ],
     subMenu: [

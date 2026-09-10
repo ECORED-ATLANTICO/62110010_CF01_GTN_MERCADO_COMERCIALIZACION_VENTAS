@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Planeación comercial y de mercadeo con Canvas'
