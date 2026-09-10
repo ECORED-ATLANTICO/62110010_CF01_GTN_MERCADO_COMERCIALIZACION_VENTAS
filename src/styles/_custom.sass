@@ -82,6 +82,8 @@ figcaption, table caption
   background-color: $color-acento-botones-a5
 .bg-contenido-a5
   background-color: $color-acento-contenido-a5
+.bg-terciario-t5
+  background-color: $color-terciario-t5
 
 .imgw-100
   width: 100px
@@ -153,7 +155,7 @@ figcaption, table caption
   position: relative
   z-index: 2
 
-.tabs-a
+.tabs-a.custom-tabs
   &__tab
     background-color: $color-secundario-s10
   .col-lg-4.col-xl-3
@@ -162,3 +164,24 @@ figcaption, table caption
   .col-lg-8.col-xl-9
     @media screen and (min-width: $bp-min-lg)
       width: 63%
+
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: $color-acento-botones-a5
+  border-radius: 20px
+  padding: 6px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: -10px
+  width: 56px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 40px
+
+.tabs-b__tab
+  background-color: $color-secundario-s5

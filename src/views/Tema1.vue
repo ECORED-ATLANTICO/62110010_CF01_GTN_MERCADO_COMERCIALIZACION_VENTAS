@@ -129,7 +129,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-xl-9
-        TabsA.color-secundario
+        TabsA.color-secundario.custom-tabs
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Diseño de nuevos modelos de negocio")
             p Facilita la creación de emprendimientos y nuevas unidades de negocio mediante la identificación de oportunidades, propuestas de valor, clientes, recursos y alianzas. 
             p.mb-0 #[strong Ejemplo:] un emprendedor utiliza Canvas para validar una idea de negocio antes de realizar inversiones significativas. 
