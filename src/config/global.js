@@ -207,14 +207,166 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Análisis estratégico',
+      significado:
+        'Proceso de evaluación de factores internos y externos que influyen en el desempeño de una organización.',
+    },
+    {
+      termino: 'Atributos clave',
+      significado:
+        'Características diferenciadoras que aportan valor a un producto, servicio o negocio.',
+    },
+    {
+      termino: '<em>Benchmark</em>',
+      significado:
+        'Técnica de comparación con organizaciones referentes para identificar buenas prácticas y oportunidades de mejora.',
+    },
+    {
+      termino: '<em>Canvas</em>',
+      significado:
+        'Herramienta visual utilizada para diseñar, analizar y gestionar modelos de negocio.',
+    },
+    {
+      termino: 'Canal',
+      significado:
+        'Medio utilizado para comunicar, distribuir o entregar valor al cliente.',
+    },
+    {
+      termino: 'Curva de valor',
+      significado:
+        'Representación gráfica de los atributos que una empresa ofrece frente a sus competidores.',
+    },
+    {
+      termino: 'Diferenciación',
+      significado:
+        'Estrategia orientada a destacar una oferta frente a la competencia mediante características únicas.',
+    },
+    {
+      termino: 'DOFA',
+      significado:
+        'Herramienta de análisis que identifica debilidades, oportunidades, fortalezas y amenazas.',
+    },
+    {
+      termino: 'Estrategia comercial',
+      significado:
+        'Conjunto de acciones orientadas a alcanzar objetivos de ventas y crecimiento empresarial.',
+    },
+    {
+      termino: 'Factor clave',
+      significado:
+        'Elemento determinante para el éxito y sostenibilidad de un negocio.',
+    },
+    {
+      termino: '<em>Layout</em>',
+      significado:
+        'Distribución física de espacios, mobiliario y productos dentro de un establecimiento comercial.',
+    },
+    {
+      termino: 'Mercadotecnia directa',
+      significado:
+        'Estrategia de comunicación que busca interactuar directamente con clientes potenciales.',
+    },
+    {
+      termino: '<em>Marketing</em>',
+      significado:
+        'Conjunto de actividades destinadas a identificar necesidades y generar valor para los clientes.',
+    },
+    {
+      termino: '<em>Marketing mix</em>',
+      significado:
+        'Combinación de variables de mercadeo utilizadas para alcanzar objetivos comerciales.',
+    },
+    {
+      termino: '<em>Marketing</em> experiencial',
+      significado:
+        'Estrategia que busca generar experiencias memorables para fortalecer la relación con el cliente.',
+    },
+    {
+      termino: '<em>Merchandising</em>',
+      significado:
+        'Conjunto de técnicas aplicadas en el punto de venta para estimular la compra de productos o servicios.',
+    },
+    {
+      termino: 'Mercado objetivo',
+      significado:
+        'Grupo específico de consumidores al que se dirige una organización.',
+    },
+    {
+      termino: '<em>Neuromarketing</em>',
+      significado:
+        'Disciplina que estudia las respuestas del cerebro ante estímulos de mercadeo y consumo.',
+    },
+    {
+      termino: 'PEST',
+      significado:
+        'Herramienta que analiza factores políticos, económicos, sociales y tecnológicos del entorno.',
+    },
+    {
+      termino: 'Posicionamiento',
+      significado:
+        'Lugar que ocupa una marca o producto en la mente de los consumidores.',
+    },
+    {
+      termino: 'Propuesta de valor',
+      significado:
+        'Beneficio diferencial que una organización ofrece para satisfacer necesidades de sus clientes.',
+    },
+    {
+      termino: '<em>Store planning</em>',
+      significado:
+        'Planificación estratégica de la distribución y organización de espacios dentro de un establecimiento comercial.',
     },
   ],
   referencias: [
     {
-      referencia: 'REF',
-      link: 'LINK',
+      referencia:
+        'Cámara de Comercio de Bogotá. (2024). <em>Herramientas para la planeación estratégica empresarial</em>.',
+      link: 'https://www.ccb.org.co',
+    },
+    {
+      referencia:
+        'Confecámaras. (2024). <em>Competitividad, mercados y crecimiento empresarial en Colombia</em>.',
+      link: 'https://www.confecamaras.org.co',
+    },
+    {
+      referencia:
+        'Ferrell, O. C., & Hartline, M. D. (2022). <em>Estrategia de marketing</em> (8.ª ed.). Cengage Learning.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kotler, P., & Keller, K. L. (2016). <em>Dirección de marketing</em> (15.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2024). <em>Estrategias para el fortalecimiento empresarial y comercial</em>.',
+      link: 'https://www.mincit.gov.co',
+    },
+    {
+      referencia:
+        'Osterwalder, A., & Pigneur, Y. (2011). <em>Generación de modelos de negocio: Un manual para visionarios, revolucionarios y retadores</em>. Deusto.',
+      link: '',
+    },
+    {
+      referencia:
+        'Porter, M. E. (2008). <em>Ser competitivo</em>. Ediciones Deusto.',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje [SENA]. (2025). <em>Guía metodológica para la formulación de planes de mercadeo</em>.',
+      link: 'https://www.sena.edu.co',
+    },
+    {
+      referencia:
+        'Stanton, W. J., Etzel, M. J., & Walker, B. J. (2018). <em>Fundamentos de marketing</em> (14.ª ed.). McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Superintendencia de Industria y Comercio. (2024). <em>Guía de buenas prácticas comerciales y protección al consumidor</em>.',
+      link: 'https://www.sic.gov.co',
     },
   ],
   creditos: [
