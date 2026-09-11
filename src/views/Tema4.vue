@@ -110,7 +110,7 @@
             .col-sm-8.col-lg-8
               p A continuación, se invita a ir al siguiente podcast: 
               TarjetaAudio.mb-3.color-primario(
-                texto="Políticas logísticas como ventaja competitiva en las organizaciones modernas "
+                texto="¿A qué cliente me dirijo y cómo quiero que me perciba? La importancia de la segmentación y el posicionamiento para los emprendedores "
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
