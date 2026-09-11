@@ -124,12 +124,13 @@ export default {
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Marketing estratégico y marketing operativo',
+            titulo:
+              '<em>Marketing</em> estratégico y <em>marketing</em> operativo',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Marketing mix',
+            titulo: '<em>Marketing mix</em>',
             hash: 't_5_2',
           },
           {

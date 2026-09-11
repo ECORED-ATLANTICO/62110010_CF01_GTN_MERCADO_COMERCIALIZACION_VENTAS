@@ -98,7 +98,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema3/6.png", alt="")
     
     TabsB.color-secundario.mb-4.z-2
-      .py-4.py-md-5(titulo="Identificación de oportunidades" :icono="require_src('@/assets/curso/tema3/7.png')")
+      .py-4.py-md-5.px-4(titulo="Identificación de oportunidades" :icono="require_src('@/assets/curso/tema3/7.png')")
         .row.align-items-center.justify-content-center
           .col-sm-6.col-lg-3
             figure
@@ -106,9 +106,9 @@
           .col-lg-9
             p La curva de valor es una representación gráfica utilizada para comparar los atributos ofrecidos por una organización frente a los atributos proporcionados por sus competidores. Esta herramienta permite identificar fortalezas, oportunidades de mejora y aspectos diferenciadores que pueden generar mayor valor para los clientes.
             p Mediante la curva de valor es posible determinar qué atributos deben fortalecerse, reducirse, eliminarse o crearse para construir propuestas más atractivas y competitivas. Su análisis favorece la innovación y contribuye a la identificación de nuevas oportunidades de mercado.
-            Por ejemplo, una empresa de entrega de alimentos saludables puede diferenciarse mediante atributos como la personalización de menús, la rapidez en la entrega y el uso de empaques ecológicos, generando una oferta distinta a la de sus competidores.
+            p.mb-0 Por ejemplo, una empresa de entrega de alimentos saludables puede diferenciarse mediante atributos como la personalización de menús, la rapidez en la entrega y el uso de empaques ecológicos, generando una oferta distinta a la de sus competidores.
       
-      .py-4.py-md-5(titulo="Evaluación de oportunidades" :icono="require_src('@/assets/curso/tema3/8.png')")
+      .py-4.py-md-5.px-4(titulo="Evaluación de oportunidades" :icono="require_src('@/assets/curso/tema3/8.png')")
         .row.align-items-center.justify-content-center
           .col-sm-6.col-lg-3
             figure
@@ -117,7 +117,7 @@
             p No todas las oportunidades identificadas resultan viables para una organización. Por esta razón, es necesario evaluar aspectos como el tamaño del mercado, la inversión requerida, la capacidad operativa, el nivel de competencia y la rentabilidad esperada. 
             p.mb-0 Este análisis permite priorizar aquellas oportunidades que presentan mayores probabilidades de éxito y que se encuentran alineadas con los objetivos estratégicos de la empresa. 
 
-      .py-4.py-md-5(titulo="Importancia de las oportunidades de mercado " :icono="require_src('@/assets/curso/tema3/9.png')")
+      .py-4.py-md-5.px-4(titulo="Importancia de las oportunidades de mercado " :icono="require_src('@/assets/curso/tema3/9.png')")
         .row.align-items-center.justify-content-center
           .col-sm-6.col-lg-3
             figure
