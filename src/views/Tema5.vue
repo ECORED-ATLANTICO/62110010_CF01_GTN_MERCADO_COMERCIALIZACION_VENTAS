@@ -38,10 +38,10 @@
               img.mb-4.mb-lg-0(src='@/assets/curso/tema5/6.png', alt='')
           .col-lg-9
             p El #[em marketing] operativo corresponde a la ejecución de las acciones definidas en la estrategia comercial. Su enfoque es de corto y mediano plazo y busca implementar actividades que permitan alcanzar los objetivos establecidos por la organización. 
-            p Entre las actividades del marketing operativo se encuentran la promoción, la gestión de canales de distribución, la publicidad, las ventas y la atención al cliente. Estas acciones permiten materializar las estrategias y generar resultados concretos dentro del mercado. 
+            p Entre las actividades del #[em marketing] operativo se encuentran la promoción, la gestión de canales de distribución, la publicidad, las ventas y la atención al cliente. Estas acciones permiten materializar las estrategias y generar resultados concretos dentro del mercado. 
             p.mb-0 Por ejemplo, una empresa que ha identificado una oportunidad en el mercado juvenil puede desarrollar campañas publicitarias específicas y promociones orientadas a dicho segmento para incrementar sus ventas. 
 
-      .py-4.py-md-5.px-4(titulo="Relación entre marketing estratégico y marketing operativo" :icono="require_src('@/assets/curso/tema5/4.png')")
+      .py-4.py-md-5.px-4(titulo="Relación entre <em>marketing</em> estratégico y <em>marketing</em> operativo" :icono="require_src('@/assets/curso/tema5/4.png')")
         .row.align-items-center.justify-content-center
           .col-sm-6.col-lg-3
             figure
@@ -59,9 +59,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema5/8.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
-        p El marketing mix es una herramienta utilizada para diseñar estrategias comerciales mediante la combinación de variables que influyen en la decisión de compra de los consumidores. Su aplicación permite estructurar acciones orientadas a satisfacer las necesidades del mercado y fortalecer la competitividad empresarial.
+        p El #[em marketing mix] es una herramienta utilizada para diseñar estrategias comerciales mediante la combinación de variables que influyen en la decisión de compra de los consumidores. Su aplicación permite estructurar acciones orientadas a satisfacer las necesidades del mercado y fortalecer la competitividad empresarial.
         .bg-terciario-t5.p-4.rounded-4.mb-4.mb-lg-0.py-3
-          p.mb-0 Tradicionalmente, el marketing mix se encuentra conformado por cuatro variables fundamentales conocidas como las cuatro P: producto, precio, plaza y promoción. Estas variables deben gestionarse de manera integrada para alcanzar los objetivos comerciales de la organización.
+          p.mb-0 Tradicionalmente, el #[em marketing mix] se encuentra conformado por cuatro variables fundamentales conocidas como las cuatro P: producto, precio, plaza y promoción. Estas variables deben gestionarse de manera integrada para alcanzar los objetivos comerciales de la organización.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-9
@@ -71,7 +71,7 @@
               p.mb-0 El producto corresponde al bien o servicio ofrecido por la empresa para satisfacer necesidades o deseos de los consumidores. Incluye aspectos relacionados con calidad, diseño, características, empaque, marca y beneficios percibidos. 
           div(titulo="Precio")
             .me-lg-5
-              p.mb-0 El precio representa el valor económico que el cliente debe pagar para adquirir un producto o servicio. Su definición debe considerar factores como costos, competencia, demanda y percepción de valor por parte de los consumidores. ambiente. 
+              p.mb-0 El precio representa el valor económico que el cliente debe pagar para adquirir un producto o servicio. Su definición debe considerar factores como costos, competencia, demanda y percepción de valor por parte de los consumidores.
           div(titulo="Plaza (distribución)")
             .me-lg-5
               p.mb-0 La plaza hace referencia a los canales de distribución utilizados para poner los productos o servicios a disposición de los consumidores. Incluye aspectos relacionados con logística, almacenamiento, transporte y puntos de venta. 
@@ -91,8 +91,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 #[em MARKETING MI]X - Las 4p del #[em Marketing] - cómo aplicarlas y ejemplos 
-                  p.mb-0 Para fortalecer los conocimientos sobre el marketing mix y comprender la aplicación de sus cuatro variables: producto, precio, plaza y promoción, se recomienda consultar el siguiente video, en el cual se explica cómo aplicar estas variables en la planificación de estrategias comerciales y se presentan ejemplos prácticos. 
+                  h5.mb-1 #[em Marketing mix] - Las 4 P del #[em marketing] - cómo aplicarlas y ejemplos 
+                  p.mb-0 Para fortalecer los conocimientos sobre el #[em marketing mix] y comprender la aplicación de sus cuatro variables: producto, precio, plaza y promoción, se recomienda consultar el siguiente video, en el cual se explica cómo aplicar estas variables en la planificación de estrategias comerciales y se presentan ejemplos prácticos. 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=KiqUOstzOsk" target="_blank")
                     span Ir al recurso

@@ -258,7 +258,7 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Cuál es el objetivo principal del Benchmark?',
+          texto: '¿Cuál es el objetivo principal del <em>benchmark</em>?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
@@ -284,7 +284,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El Benchmark permite comparar procesos y buenas prácticas para identificar oportunidades de mejora.',
+            'El <em>benchmark</em> permite comparar procesos y buenas prácticas para identificar oportunidades de mejora.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -421,7 +421,8 @@ export default {
         },
         {
           id: 13,
-          texto: '¿Cuál es la función principal del marketing estratégico?',
+          texto:
+            '¿Cuál es la función principal del <em>marketing</em> estratégico?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
@@ -447,13 +448,13 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El marketing estratégico se orienta al análisis del mercado y a la definición de estrategias empresariales.',
+            'El <em>marketing</em> estratégico se orienta al análisis del mercado y a la definición de estrategias empresariales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
-          texto: '¿Qué caracteriza al marketing operativo?',
+          texto: '¿Qué caracteriza al <em>marketing</em> operativo?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
@@ -479,13 +480,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El marketing operativo se enfoca en la ejecución de las acciones definidas en la estrategia comercial.',
+            'El <em>marketing</em> operativo se enfoca en la ejecución de las acciones definidas en la estrategia comercial.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 15,
-          texto: '¿Cuáles son los elementos tradicionales del marketing mix?',
+          texto:
+            '¿Cuáles son los elementos tradicionales del <em>marketing mix</em>?',
           imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
@@ -511,7 +513,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El marketing mix está compuesto por producto, precio, plaza y promoción.',
+            'El <em>marketing mix</em> está compuesto por producto, precio, plaza y promoción.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -550,7 +552,7 @@ export default {
         },
         {
           id: 17,
-          texto: '¿Qué busca el marketing experiencial?',
+          texto: '¿Qué busca el <em>marketing</em> experiencial?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -576,7 +578,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El marketing experiencial busca generar emociones y experiencias positivas para fortalecer la relación con el cliente.',
+            'El <em>marketing</em> experiencial busca generar emociones y experiencias positivas para fortalecer la relación con el cliente.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

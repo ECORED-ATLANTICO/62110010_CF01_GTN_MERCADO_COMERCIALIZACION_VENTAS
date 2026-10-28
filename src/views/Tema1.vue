@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Modelo de negocio <em>Canvas</em>
+      h1 Modelo de negocio Canvas
 
     img(data-aos="fade-up")(src="@/assets/curso/tema1/1.png", alt="")
     
@@ -84,7 +84,7 @@
       span Estructura del modelo de negocio Canvas
     img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/11-mob.svg", alt="La figura presenta la estructura del modelo de negocio Canvas, organizada en nueve componentes. En la parte superior se encuentran socios clave, actividades clave, propuesta de valor, relaciones con clientes y segmentos de clientes. En la zona central se ubican recursos clave y canales. En la parte inferior se presentan la estructura de costos y las fuentes de ingresos. La distribución permite visualizar cómo se relacionan los diferentes componentes para estructurar y analizar un modelo de negocio.")
     img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/11.svg", alt="La figura presenta la estructura del modelo de negocio Canvas, organizada en nueve componentes. En la parte superior se encuentran socios clave, actividades clave, propuesta de valor, relaciones con clientes y segmentos de clientes. En la zona central se ubican recursos clave y canales. En la parte inferior se presentan la estructura de costos y las fuentes de ingresos. La distribución permite visualizar cómo se relacionan los diferentes componentes para estructurar y analizar un modelo de negocio.")
-    figcaption Nota. De Modelo Canvas: qué es y cómo crearlo. ¡Plantilla gratis!, por Tiendanube, s. f. Fuente original – <a href="https://www.tiendanube.com/blog/modelo-canvas/?utm_source=chatgpt.com" target="_blank">Tiendanube</a> 
+    figcaption Nota. De Modelo Canvas: qué es y cómo crearlo. ¡Plantilla gratis!, por Tiendanube, s. f. Fuente original – <a href="https://www.tiendanube.com/blog/modelo-canvas/?utm_source=chatgpt.com" target="_blank">Tiendanube</a>.
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -97,7 +97,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-primario")
           div(titulo="Factores clave del negocio")
             .me-lg-5
-              p los factores clave del negocio corresponden a los elementos estratégicos que determinan el éxito y la sostenibilidad de una organización. Estos factores pueden variar según el sector económico, el tipo de empresa y las características del mercado en el que participa la organización. Su análisis permite identificar fortalezas internas y establecer acciones orientadas al mejoramiento continuo.
+              p Los factores clave del negocio corresponden a los elementos estratégicos que determinan el éxito y la sostenibilidad de una organización. Estos factores pueden variar según el sector económico, el tipo de empresa y las características del mercado en el que participa la organización. Su análisis permite identificar fortalezas internas y establecer acciones orientadas al mejoramiento continuo.
               p Entre los factores clave más comunes se encuentran la calidad de los productos o servicios, la capacidad de innovación, la eficiencia operativa, el conocimiento del mercado, la gestión financiera y la atención al cliente. Cuando estos elementos son administrados adecuadamente, contribuyen al fortalecimiento de la competitividad empresarial y al cumplimiento de los objetivos organizacionales. 
               p.mb-0 Por ejemplo, en una empresa dedicada a la comercialización de productos tecnológicos, factores como la innovación permanente, la actualización de inventarios y el soporte técnico especializado pueden convertirse en elementos determinantes para mantener una posición favorable frente a la competencia. 
           div(titulo="Atributos clave del negocio")
@@ -105,9 +105,9 @@
               p Los atributos clave corresponden a las características específicas que los clientes valoran al momento de adquirir un producto o servicio. Estos atributos influyen en la decisión de compra y permiten diferenciar una oferta comercial frente a otras alternativas disponibles en el mercado. 
               p Entre los atributos más valorados por los consumidores se encuentran la calidad, el precio, la seguridad, la rapidez, la personalización, la innovación y la facilidad de uso. La importancia de cada atributo dependerá de las necesidades y expectativas de los segmentos de clientes a los que se dirige la organización. 
               p.mb-0 Por ejemplo, en los servicios de transporte por aplicación, atributos como la rapidez en la atención, la seguridad durante el recorrido y la facilidad para realizar pagos digitales suelen ser factores altamente valorados por los usuarios. 
-          div(titulo="Atributos clave del negocio")
+          div(titulo="Importancia de los factores y atributos clave")
             .me-lg-5
-              p la identificación de factores y atributos clave permite a las organizaciones comprender mejor las necesidades de sus clientes y diseñar propuestas de valor más competitivas. Asimismo, facilita la formulación de estrategias orientadas a fortalecer aquellos aspectos que generan mayor impacto sobre la satisfacción del cliente y los resultados empresariales. 
+              p La identificación de factores y atributos clave permite a las organizaciones comprender mejor las necesidades de sus clientes y diseñar propuestas de valor más competitivas. Asimismo, facilita la formulación de estrategias orientadas a fortalecer aquellos aspectos que generan mayor impacto sobre la satisfacción del cliente y los resultados empresariales. 
               p.mb-0 Cuando una empresa conoce claramente cuáles son sus factores y atributos diferenciadores, puede enfocar sus esfuerzos en fortalecerlos y comunicarlos de manera efectiva al mercado. Esto contribuye al posicionamiento de la marca y al desarrollo de relaciones comerciales más sólidas y duraderas. 
       .col-6.col-lg-3.d-none.d-lg-block
         figure
@@ -165,7 +165,7 @@
  
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Figura 2.
-      span Ejemplo de modelo de negocio #[em Canvas] - Empresa: Ecoalmuerzos #[em Express]
+      span Ejemplo de modelo de negocio Canvas - Empresa: Ecoalmuerzos Express
     img.mb-4.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-mob.svg", alt="Ejemplo de modelo de negocio Canvas: Ecoalmuerzos Express. Diagrama que presenta los nueve bloques del modelo de negocio: socios clave, actividades clave, recursos clave, propuesta de valor, relación con clientes, canales, segmentos de clientes, estructura de costos y fuentes de ingresos. La propuesta de valor se enfoca en ofrecer almuerzos saludables, preparados con ingredientes frescos, entregados puntualmente y con planes de alimentación personalizados.")
     img.mb-4.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/16.svg", alt="Ejemplo de modelo de negocio Canvas: Ecoalmuerzos Express. Diagrama que presenta los nueve bloques del modelo de negocio: socios clave, actividades clave, recursos clave, propuesta de valor, relación con clientes, canales, segmentos de clientes, estructura de costos y fuentes de ingresos. La propuesta de valor se enfoca en ofrecer almuerzos saludables, preparados con ingredientes frescos, entregados puntualmente y con planes de alimentación personalizados.")
 
@@ -179,7 +179,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 Modelo #[em Canvas] | Cómo aplicar el modelo #[em Canvas] en el lienzo | Ejemplo práctico 
+                  h5.mb-1 Modelo Canvas | Cómo aplicar el modelo Canvas en el lienzo | Ejemplo práctico 
                   p.mb-0 Para afianzar los conocimientos sobre el modelo de negocio Canvas y comprender la aplicación práctica de sus componentes, lo invitamos a consultar el siguiente video, en el que se explica cómo diligenciar el lienzo y se presenta un ejemplo práctico de su aplicación: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=i1Le5GYkBT8" target="_blank")

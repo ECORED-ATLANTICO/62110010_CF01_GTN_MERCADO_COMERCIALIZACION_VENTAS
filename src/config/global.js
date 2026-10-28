@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Planeación comercial y de mercadeo con <em>Canvas</em>',
+    Name: 'Planeación comercial y de mercadeo con Canvas',
     Description:
-      'El componente formativo aborda los fundamentos de la planeación comercial y de mercadeo mediante la aplicación del modelo de negocios <em>Canvas</em> como herramienta para el análisis y diseño estratégico. Integra elementos como la propuesta de valor, la curva de valor, la segmentación de mercados, el posicionamiento, el análisis del entorno y la formulación de estrategias comerciales, con el propósito de fortalecer la toma de decisiones y la estructuración de planes de acción orientados al logro de los objetivos organizacionales.',
+      'El componente formativo aborda los fundamentos de la planeación comercial y de mercadeo mediante la aplicación del modelo de negocios Canvas como herramienta para el análisis y diseño estratégico. Integra elementos como la propuesta de valor, la curva de valor, la segmentación de mercados, el posicionamiento, el análisis del entorno y la formulación de estrategias comerciales, con el propósito de fortalecer la toma de decisiones y la estructuración de planes de acción orientados al logro de los objetivos organizacionales.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Modelo de negocio <em>Canvas</em>',
+        titulo: 'Modelo de negocio Canvas',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -222,7 +222,7 @@ export default {
         'Técnica de comparación con organizaciones referentes para identificar buenas prácticas y oportunidades de mejora.',
     },
     {
-      termino: '<em>Canvas</em>',
+      termino: 'Canvas',
       significado:
         'Herramienta visual utilizada para diseñar, analizar y gestionar modelos de negocio.',
     },
@@ -320,52 +320,51 @@ export default {
   referencias: [
     {
       referencia:
-        'Cámara de Comercio de Bogotá. (2024). <em>Herramientas para la planeación estratégica empresarial</em>.',
+        'Cámara de Comercio de Bogotá. (2024). Herramientas para la planeación estratégica empresarial.',
       link: 'https://www.ccb.org.co',
     },
     {
       referencia:
-        'Confecámaras. (2024). <em>Competitividad, mercados y crecimiento empresarial en Colombia</em>.',
+        'Confecámaras. (2024). Competitividad, mercados y crecimiento empresarial en Colombia.',
       link: 'https://www.confecamaras.org.co',
     },
     {
       referencia:
-        'Ferrell, O. C., & Hartline, M. D. (2022). <em>Estrategia de marketing</em> (8.ª ed.). Cengage Learning.',
+        'Ferrell, O. C., & Hartline, M. D. (2022). Estrategia de <em>marketing</em> (8.ª ed.). Cengage Learning.',
       link: '',
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2016). <em>Dirección de marketing</em> (15.ª ed.). Pearson Educación.',
+        'Kotler, P., & Keller, K. L. (2016). Dirección de <em>marketing</em> (15.ª ed.). Pearson Educación.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2024). <em>Estrategias para el fortalecimiento empresarial y comercial</em>.',
+        'Ministerio de Comercio, Industria y Turismo. (2024). Estrategias para el fortalecimiento empresarial y comercial.',
       link: 'https://www.mincit.gov.co',
     },
     {
       referencia:
-        'Osterwalder, A., & Pigneur, Y. (2011). <em>Generación de modelos de negocio: Un manual para visionarios, revolucionarios y retadores</em>. Deusto.',
+        'Osterwalder, A., & Pigneur, Y. (2011). Generación de modelos de negocio: Un manual para visionarios, revolucionarios y retadores. Deusto.',
+      link: '',
+    },
+    {
+      referencia: 'Porter, M. E. (2008). Ser competitivo. Ediciones Deusto.',
       link: '',
     },
     {
       referencia:
-        'Porter, M. E. (2008). <em>Ser competitivo</em>. Ediciones Deusto.',
-      link: '',
-    },
-    {
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2025). <em>Guía metodológica para la formulación de planes de mercadeo</em>.',
+        'Servicio Nacional de Aprendizaje [SENA]. (2025). Guía metodológica para la formulación de planes de mercadeo.',
       link: 'https://www.sena.edu.co',
     },
     {
       referencia:
-        'Stanton, W. J., Etzel, M. J., & Walker, B. J. (2018). <em>Fundamentos de marketing</em> (14.ª ed.). McGraw-Hill.',
+        'Stanton, W. J., Etzel, M. J., & Walker, B. J. (2018). Fundamentos de <em>marketing</em> (14.ª ed.). McGraw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Superintendencia de Industria y Comercio. (2024). <em>Guía de buenas prácticas comerciales y protección al consumidor</em>.',
+        'Superintendencia de Industria y Comercio. (2024). Guía de buenas prácticas comerciales y protección al consumidor.',
       link: 'https://www.sic.gov.co',
     },
   ],
@@ -390,18 +389,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Mario Morales Cabrera',
+          cargo: 'Experto temático comercio y servicio',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Rosmery Conde',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -410,12 +404,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Carmen Alicia Martínez Torres ',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -436,21 +430,21 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Laura Daniela Burgos Rueda ',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

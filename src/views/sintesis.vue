@@ -9,12 +9,12 @@
       .col-lg-9
         p El componente formativo Planeación comercial y de mercadeo con Canvas aborda el estudio del modelo de negocio Canvas, la propuesta de valor y la ventaja competitiva como elementos fundamentales para la formulación de estrategias empresariales. Asimismo, desarrolla herramientas de análisis estratégico y oportunidades de mercado mediante el análisis interno y externo de la organización.
         .bg-img.bg-img--contenido.p-4.rounded-4.overflow-hidden
-          p.mb-0 De igual manera, estudia la segmentación y el posicionamiento de mercado, así como el marketing y las estrategias de crecimiento empresarial orientadas al fortalecimiento de la competitividad. Finalmente, integra estrategias comerciales y de mercadeo que contribuyen a la formulación de planes comerciales y de mercadeo alineados con los objetivos organizacionales y las necesidades del mercado.
+          p.mb-0 De igual manera, estudia la segmentación y el posicionamiento de mercado, así como el #[em marketing] y las estrategias de crecimiento empresarial orientadas al fortalecimiento de la competitividad. Finalmente, integra estrategias comerciales y de mercadeo que contribuyen a la formulación de planes comerciales y de mercadeo alineados con los objetivos organizacionales y las necesidades del mercado.
 
     .row.justify-content-center
       .col-lg-12
         figure
-          img.mb-5(src="@/assets/curso/sintesis.svg", alt="")
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt='Diagrama jerárquico titulado "Planeación comercial y de mercado con Canvas" que presenta seis componentes principales de la planeación comercial y de mercadeo: modelo de negocio Canvas; propuesta de valor y ventaja competitiva; análisis estratégico y oportunidades de mercado; segmentación y posicionamiento de mercado; marketing y estrategias de crecimiento; y estrategias comerciales y de mercadeo. Cada componente incluye los temas que abarca, como el concepto y los componentes del modelo de negocio, factores clave, aplicación empresarial, mapa de empatía, curva de valor, análisis interno y externo, matriz DOFA, PEST, benchmark, segmentación, posicionamiento, marketing mix, marketing experiencial, neuromarketing, merchandising, store planning y layout.')
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

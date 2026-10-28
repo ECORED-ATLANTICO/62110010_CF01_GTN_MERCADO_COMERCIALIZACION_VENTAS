@@ -34,7 +34,7 @@
       .col-xl-9
         TabsA.color-secundario.custom-tabs
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="<em>Marketing</em> experiencial")
-            p El marketing experiencial consiste en diseñar experiencias memorables que permitan al cliente interactuar de manera significativa con una marca, producto o servicio. Busca generar emociones positivas que fortalezcan la relación con el consumidor y aumenten la probabilidad de recompra. 
+            p El #[em marketing] experiencial consiste en diseñar experiencias memorables que permitan al cliente interactuar de manera significativa con una marca, producto o servicio. Busca generar emociones positivas que fortalezcan la relación con el consumidor y aumenten la probabilidad de recompra. 
             p Esta estrategia reconoce que los clientes no solo adquieren productos o servicios, sino también experiencias que influyen en su percepción y satisfacción. Por ello, las organizaciones desarrollan actividades que estimulan los sentidos, las emociones y la participación del consumidor. 
             p.mb-0 #[strong Ejemplo:] una tienda de artículos deportivos organiza eventos donde los clientes prueban productos, participan en actividades recreativas y comparten experiencias con otros usuarios. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Mercadotecnia directa")
@@ -42,7 +42,7 @@
             p Entre los medios utilizados se encuentran el correo electrónico, las llamadas telefónicas, los mensajes de texto, las redes sociales y las plataformas digitales. Una adecuada implementación contribuye a mejorar la efectividad de las campañas y optimizar los recursos destinados a la promoción. 
             p.mb-0 #[strong Ejemplo:] una empresa envía mensajes personalizados a sus clientes para comunicar una promoción relacionada con sus intereses de compra.  
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="<em>Neuromarketing</em>")
-            p El neuromarketing estudia la influencia de los estímulos comerciales sobre el comportamiento del consumidor mediante el análisis de procesos mentales y emocionales relacionados con la toma de decisiones. 
+            p El #[em neuromarketing] estudia la influencia de los estímulos comerciales sobre el comportamiento del consumidor mediante el análisis de procesos mentales y emocionales relacionados con la toma de decisiones. 
             p Su aplicación permite comprender cómo colores, sonidos, imágenes, aromas y mensajes publicitarios pueden influir en las preferencias y decisiones de compra. Esta información facilita el diseño de estrategias comerciales más efectivas y orientadas a las expectativas del mercado. 
             p.mb-0 #[strong Ejemplo:] una marca analiza la respuesta de los consumidores ante diferentes elementos visuales de un anuncio para mejorar su comunicación comercial. 
 
@@ -113,8 +113,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 #[em NEUROMARKETING:] Qué es y TÉCNICAS que se utilizan 
-                  p.mb-0 Para complementar los conocimientos sobre el neuromarketing y comprender su aplicación en las estrategias comerciales, se recomienda consultar el siguiente video, en el cual se explica su concepto y se presentan algunas de las técnicas utilizadas para analizar la respuesta del consumidor ante diferentes estímulos. 
+                  h5.mb-1 #[em Neuromarketing:] qué es y técnicas que se utilizan 
+                  p.mb-0 Para complementar los conocimientos sobre el #[em neuromarketing] y comprender su aplicación en las estrategias comerciales, se recomienda consultar el siguiente video, en el cual se explica su concepto y se presentan algunas de las técnicas utilizadas para analizar la respuesta del consumidor ante diferentes estímulos. 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=L_nbK-G9s_4" target="_blank")
                     span Ir al recurso
@@ -125,7 +125,7 @@
 
     p.mb-4.mb-lg-5 La comunicación visual desempeña un papel fundamental dentro de los espacios comerciales, ya que facilita la orientación de los clientes, mejora la presentación de los productos y fortalece la imagen corporativa. La señalética, el escaparatismo y la iluminación constituyen herramientas ampliamente utilizadas para este propósito. 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-lg-5
       .col-sm-11.col-lg-8.col-xl-6.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -167,6 +167,21 @@
             h4.mb-2.mb-lg-3 Importancia de las estrategias comerciales y de mercadeo 
             p.mb-2 Las estrategias comerciales y de mercadeo permiten fortalecer la relación con los clientes, mejorar la experiencia de compra y aumentar la competitividad empresarial. Su adecuada implementación favorece el posicionamiento de la marca, el incremento de las ventas y el logro de los objetivos organizacionales. 
             p.mb-0 La integración de herramientas relacionadas con la experiencia del cliente, la comunicación comercial y la organización de espacios comerciales contribuye a generar valor y a construir relaciones duraderas con los consumidores en mercados cada vez más dinámicos y competitivos. 
+
+    .row.justify-content-center.align-items-center
+      .col-xl-10
+        .tarjeta.bg-img.bg-img--primario.p-4
+          .row.justify-content-around.align-items-center
+            .col-3.col-lg-2.d-none.d-lg-block
+              img.imgw-140(src="@/assets/curso/tema1/19.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h5.mb-1 10 ejemplos de estrategias de #[em marketing] para tu marca (2026)
+                  p.mb-0 Para fortalecer los conocimientos sobre las estrategias de #[em marketing] y comprender su aplicación en contextos empresariales, se recomienda consultar el siguiente video, en el cual se presentan ejemplos prácticos de estrategias que pueden implementarse para fortalecer la presencia y competitividad de una marca. 
+                .col-sm-auto.d-flex.gap-2.flex-column
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=j-oSO7nusbo" target="_blank")
+                    span Ir al recurso
 
 </template>
 

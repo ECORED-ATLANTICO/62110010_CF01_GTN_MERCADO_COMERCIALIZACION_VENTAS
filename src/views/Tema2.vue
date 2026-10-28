@@ -60,18 +60,18 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2	Ventaja competitiva 
+      h2 2.2	Curva de valor y propuesta de valor 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
-      .col-lg-9.mb-4.mb-lg-0
+      .col-lg-3
+        p.mb-4.mb-lg-0 La curva de valor y la propuesta de valor son herramientas complementarias que permiten identificar factores de diferenciación y diseñar ofertas comerciales que respondan de manera efectiva a las necesidades del mercado. Su aplicación facilita el desarrollo de ventajas competitivas y fortalece el posicionamiento empresarial. 
+      .col-lg-9
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span Curva de valor y comparación competitiva
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/4-mob.png", alt="Curva de valor que compara un restaurante con un competidor según precio, calidad, ambiente, diseño, localización y horario.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/4.png", alt="Curva de valor que compara un restaurante con un competidor según precio, calidad, ambiente, diseño, localización y horario.")
-        figcaption Nota. De Plantilla para representar la curva de valor, por Gerardo Marote, 2019. Fuente original: Gerardo Marote
-      .col-lg-3
-        p.mb-0 La curva de valor y la propuesta de valor son herramientas complementarias que permiten identificar factores de diferenciación y diseñar ofertas comerciales que respondan de manera efectiva a las necesidades del mercado. Su aplicación facilita el desarrollo de ventajas competitivas y fortalece el posicionamiento empresarial. 
+        figcaption Nota. De Plantilla para representar la curva de valor, por Gerardo Marote, 2019. Fuente original: Gerardo Marote.
 
     TabsB.color-secundario.mb-4.z-2
       .py-4.py-md-5.px-4(titulo="Curva de valor" :icono="require_src('@/assets/curso/tema2/5.png')")
@@ -161,7 +161,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 ¿Qué es la propuesta de valor? Cómo crearla y ejemplos - modelo #[em Canvas] 
+                  h5.mb-1 ¿Qué es la propuesta de valor? Cómo crearla y ejemplos - modelo Canvas 
                   p.mb-0 Para fortalecer los conocimientos sobre la propuesta de valor y comprender su importancia dentro del modelo de negocio Canvas, se recomienda consultar el siguiente video, en el cual se explica de manera práctica este componente y su aplicación en la construcción de modelos de negocio. 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=yvgNSHqb4_M" target="_blank")
@@ -172,11 +172,11 @@
         .bg-audio.rounded-4.p-4
           .row.align-items-center.justify-content-center
             .col-sm-8.col-lg-8
-              p A continuación, se invita a ir al siguiente podcast: 
+              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3.color-primario(
                 texto="¿Qué valor ofrezco al cliente? La propuesta de valor como base del emprendimiento"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/62110010_CF01_Podcast_01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
             .col-8.col-sm-4
               figure.pt-3

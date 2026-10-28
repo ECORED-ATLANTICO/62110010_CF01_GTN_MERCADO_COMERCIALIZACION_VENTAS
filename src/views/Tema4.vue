@@ -108,11 +108,11 @@
         .bg-audio.rounded-4.p-4
           .row.align-items-center.justify-content-center
             .col-sm-8.col-lg-8
-              p A continuación, se invita a ir al siguiente podcast: 
+              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3.color-primario(
                 texto="¿A qué cliente me dirijo y cómo quiero que me perciba? La importancia de la segmentación y el posicionamiento para los emprendedores "
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/62110010_CF01_Podcast_02.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
             .col-8.col-sm-4
               figure.pt-3

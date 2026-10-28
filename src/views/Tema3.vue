@@ -62,9 +62,9 @@
     .fullwidth-bg.fullwidth-bg--1
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.2	Matriz DOFA, PEST y <em>Benchmark</em>
+      h2 3.2	Matriz DOFA, PEST y #[em benchmark]
 
-    p.z-2 Las herramientas de análisis estratégico facilitan la recopilación y organización de información relevante para la toma de decisiones empresariales. Entre las más utilizadas se encuentran la matriz DOFA, el análisis PEST y el #[em Benchmark], debido a su utilidad para comprender la realidad organizacional y las dinámicas del entorno.  
+    p.z-2 Las herramientas de análisis estratégico facilitan la recopilación y organización de información relevante para la toma de decisiones empresariales. Entre las más utilizadas se encuentran la matriz DOFA, el análisis PEST y el #[em benchmark], debido a su utilidad para comprender la realidad organizacional y las dinámicas del entorno.  
     p.mb-4.z-2 A continuación, se presentan estas herramientas de análisis estratégico y su utilidad para identificar factores internos y externos, reconocer oportunidades de mejora y apoyar la toma de decisiones empresariales. 
 
     .row.justify-content-center.align-items-center.z-2
@@ -80,7 +80,7 @@
             p El análisis PEST permite estudiar factores políticos, económicos, sociales y tecnológicos que pueden influir en las actividades de una organización. Su aplicación facilita la identificación de tendencias, oportunidades y riesgos del entorno, fortaleciendo la capacidad de adaptación empresarial. 
             p.mb-0 #[strong Ejemplo:] una empresa analiza cambios en las regulaciones, la inflación, los hábitos de consumo y los avances tecnológicos para anticipar escenarios y ajustar sus estrategias. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="<em>Benchmark</em>")
-            p El benchmark consiste en comparar procesos, productos, servicios o estrategias con organizaciones reconocidas por sus buenas prácticas. Esta comparación permite identificar oportunidades de mejora, promover la innovación y fortalecer la competitividad. 
+            p El #[em benchmark] consiste en comparar procesos, productos, servicios o estrategias con organizaciones reconocidas por sus buenas prácticas. Esta comparación permite identificar oportunidades de mejora, promover la innovación y fortalecer la competitividad. 
             p.mb-0 #[strong Ejemplo:] una empresa de comercio electrónico analiza las estrategias de servicio al cliente de compañías líderes para identificar mejoras aplicables a sus propios procesos. 
 
     separador
@@ -104,9 +104,9 @@
             figure
               img.mb-4.mb-lg-0(src='@/assets/curso/tema3/10.png', alt='')
           .col-lg-9
-            p La curva de valor es una representación gráfica utilizada para comparar los atributos ofrecidos por una organización frente a los atributos proporcionados por sus competidores. Esta herramienta permite identificar fortalezas, oportunidades de mejora y aspectos diferenciadores que pueden generar mayor valor para los clientes.
-            p Mediante la curva de valor es posible determinar qué atributos deben fortalecerse, reducirse, eliminarse o crearse para construir propuestas más atractivas y competitivas. Su análisis favorece la innovación y contribuye a la identificación de nuevas oportunidades de mercado.
-            p.mb-0 Por ejemplo, una empresa de entrega de alimentos saludables puede diferenciarse mediante atributos como la personalización de menús, la rapidez en la entrega y el uso de empaques ecológicos, generando una oferta distinta a la de sus competidores.
+            p La identificación de oportunidades requiere un análisis permanente del mercado y del comportamiento de los consumidores. Las organizaciones deben recopilar información sobre tendencias, necesidades emergentes y cambios en el entorno para detectar escenarios favorables para el crecimiento empresarial. 
+            p Entre las fuentes de información utilizadas para este propósito se encuentran estudios de mercado, análisis de competencia, encuestas a clientes, informes sectoriales y observación de tendencias nacionales e internacionales. 
+            p.mb-0 Por ejemplo, el incremento en la demanda de productos sostenibles ha generado oportunidades para empresas que desarrollan soluciones amigables con el medio ambiente y promueven prácticas responsables de producción y consumo. 
       
       .py-4.py-md-5.px-4(titulo="Evaluación de oportunidades" :icono="require_src('@/assets/curso/tema3/8.png')")
         .row.align-items-center.justify-content-center
