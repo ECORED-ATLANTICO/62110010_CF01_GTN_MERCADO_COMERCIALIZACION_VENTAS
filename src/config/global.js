@@ -88,7 +88,7 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Matriz DOFA, PEST y <em>Benchmark</em>',
+            titulo: 'Matriz DOFA, PEST y <em>benchmark</em>',
             hash: 't_3_2',
           },
           {
@@ -191,7 +191,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/62110010 _CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',

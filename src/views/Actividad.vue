@@ -584,7 +584,7 @@ export default {
         },
         {
           id: 18,
-          texto: '¿Cuál es el propósito principal del merchandising?',
+          texto: '¿Cuál es el propósito principal del <em>merchandising</em>?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
@@ -610,7 +610,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El merchandising utiliza técnicas que favorecen la exhibición y promoción de productos en el punto de venta.',
+            'El <em>merchandising</em> utiliza técnicas que favorecen la exhibición y promoción de productos en el punto de venta.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
