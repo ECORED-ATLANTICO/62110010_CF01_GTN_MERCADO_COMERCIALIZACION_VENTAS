@@ -5,21 +5,21 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Modelo de negocio Canvas
+      h1 Modelo de negocio <em>Canvas</em>
 
     img(data-aos="fade-up")(src="@/assets/curso/tema1/1.png", alt="")
     
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
         div.banner-text.shadow
-          p.mb-0 El modelo de negocio Canvas es una herramienta estratégica que permite representar de manera visual los elementos fundamentales de una organización. Su aplicación facilita la comprensión de cómo una empresa crea, entrega y captura valor, contribuyendo a la formulación de estrategias comerciales y de mercadeo orientadas al crecimiento y la competitividad. 
+          p.mb-0 El modelo de negocio <em>Canvas</em> es una herramienta estratégica que permite representar de manera visual los elementos fundamentales de una organización. Su aplicación facilita la comprensión de cómo una empresa crea, entrega y captura valor, contribuyendo a la formulación de estrategias comerciales y de mercadeo orientadas al crecimiento y la competitividad. 
 
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Concepto y componentes
 
-    p.mb-4 El modelo de negocio Canvas es una metodología de planeación estratégica que permite describir, analizar y diseñar modelos de negocio mediante una estructura visual integrada. Esta herramienta facilita la comprensión de los elementos que intervienen en el funcionamiento de una organización y la forma en que estos se relacionan para generar valor. 
+    p.mb-4 El modelo de negocio <em>Canvas</em> es una metodología de planeación estratégica que permite describir, analizar y diseñar modelos de negocio mediante una estructura visual integrada. Esta herramienta facilita la comprensión de los elementos que intervienen en el funcionamiento de una organización y la forma en que estos se relacionan para generar valor. 
 
     .p-4.bg-slider.rounded-4.mb-5
       .tarjeta.tarjeta--blanca
@@ -81,10 +81,10 @@
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Figura 1.
-      span Estructura del modelo de negocio Canvas
-    img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/11-mob.svg", alt="La figura presenta la estructura del modelo de negocio Canvas, organizada en nueve componentes. En la parte superior se encuentran socios clave, actividades clave, propuesta de valor, relaciones con clientes y segmentos de clientes. En la zona central se ubican recursos clave y canales. En la parte inferior se presentan la estructura de costos y las fuentes de ingresos. La distribución permite visualizar cómo se relacionan los diferentes componentes para estructurar y analizar un modelo de negocio.")
-    img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/11.svg", alt="La figura presenta la estructura del modelo de negocio Canvas, organizada en nueve componentes. En la parte superior se encuentran socios clave, actividades clave, propuesta de valor, relaciones con clientes y segmentos de clientes. En la zona central se ubican recursos clave y canales. En la parte inferior se presentan la estructura de costos y las fuentes de ingresos. La distribución permite visualizar cómo se relacionan los diferentes componentes para estructurar y analizar un modelo de negocio.")
-    figcaption Nota. De Modelo Canvas: qué es y cómo crearlo. ¡Plantilla gratis!, por Tiendanube, s. f. Fuente original – <a href="https://www.tiendanube.com/blog/modelo-canvas/?utm_source=chatgpt.com" target="_blank">Tiendanube</a>.
+      span Estructura del modelo de negocio <em>Canvas</em>
+    img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/11-mob.svg", alt="En la parte superior se encuentran socios clave, actividades clave, propuesta de valor, relaciones con clientes y segmentos de clientes. En la zona central se ubican recursos clave y canales. En la parte inferior se presentan la estructura de costos y las fuentes de ingresos.")
+    img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/11.svg", alt="En la parte superior se encuentran socios clave, actividades clave, propuesta de valor, relaciones con clientes y segmentos de clientes. En la zona central se ubican recursos clave y canales. En la parte inferior se presentan la estructura de costos y las fuentes de ingresos.")
+    figcaption Nota. De Modelo <em>Canvas</em>: qué es y cómo crearlo. ¡Plantilla gratis!, por Tiendanube, s. f. Fuente original – <a href="https://www.tiendanube.com/blog/modelo-<em>Canvas</em>/?utm_source=chatgpt.com" target="_blank">Tiendanube</a>.
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -123,30 +123,30 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema1/13.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La aplicación empresarial del modelo de negocio Canvas permite analizar de forma integral el funcionamiento de una organización y facilita la formulación de estrategias orientadas al crecimiento y la sostenibilidad. Su estructura visual ayuda a comprender la relación existente entre clientes, recursos, actividades, ingresos y costos, proporcionando una visión global del negocio. 
+        p.mb-0 La aplicación empresarial del modelo de negocio <em>Canvas</em> permite analizar de forma integral el funcionamiento de una organización y facilita la formulación de estrategias orientadas al crecimiento y la sostenibilidad. Su estructura visual ayuda a comprender la relación existente entre clientes, recursos, actividades, ingresos y costos, proporcionando una visión global del negocio. 
 
-    p.mb-4 A continuación, se presentan las principales aplicaciones empresariales del modelo Canvas y su utilidad en diferentes situaciones organizacionales. 
+    p.mb-4 A continuación, se presentan las principales aplicaciones empresariales del modelo <em>Canvas</em> y su utilidad en diferentes situaciones organizacionales. 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-xl-9
         TabsA.color-secundario.custom-tabs
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Diseño de nuevos modelos de negocio")
             p Facilita la creación de emprendimientos y nuevas unidades de negocio mediante la identificación de oportunidades, propuestas de valor, clientes, recursos y alianzas. 
-            p.mb-0 #[strong Ejemplo:] un emprendedor utiliza Canvas para validar una idea de negocio antes de realizar inversiones significativas. 
+            p.mb-0 #[strong Ejemplo:] un emprendedor utiliza <em>Canvas</em> para validar una idea de negocio antes de realizar inversiones significativas. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Mejoramiento de empresas existentes")
             p Permite revisar los componentes del modelo de negocio para identificar oportunidades de mejora en la propuesta de valor, los canales, las relaciones con clientes y los costos.  
             p.mb-0 #[strong Ejemplo:] una empresa ajusta sus canales digitales para responder a nuevas necesidades del mercado. 
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Apoyo a la toma de decisiones")
             p Organiza información relevante del negocio y facilita la evaluación de alternativas y la definición de acciones estratégicas. 
-            p.mb-0 #[strong Ejemplo:] una empresa de productos de belleza utiliza Canvas para identificar nuevos segmentos de clientes y fortalecer su propuesta de valor.  
+            p.mb-0 #[strong Ejemplo:] una empresa de productos de belleza utiliza <em>Canvas</em> para identificar nuevos segmentos de clientes y fortalecer su propuesta de valor.  
           .tarjeta.p-4.bg-contenido-a5.py-5(titulo="Beneficios para la organización")
             p Favorece la claridad estratégica, la innovación, la identificación de oportunidades de mejora, el trabajo colaborativo y el fortalecimiento de la competitividad. 
-            p.mb-0 #[strong Ejemplo:] diferentes áreas de una empresa utilizan Canvas para construir una visión compartida sobre la generación de valor. 
+            p.mb-0 #[strong Ejemplo:] diferentes áreas de una empresa utilizan <em>Canvas</em> para construir una visión compartida sobre la generación de valor. 
       .col-sm-6.col-lg-3.d-none.d-xl-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/14.png", alt="")
  
-    p.mb-4.z-2 En un entorno empresarial caracterizado por cambios constantes, la aplicación del modelo de negocio Canvas se ha convertido en una herramienta de gran utilidad para comprender la dinámica del mercado y diseñar estrategias que permitan alcanzar resultados sostenibles en el tiempo. 
+    p.mb-4.z-2 En un entorno empresarial caracterizado por cambios constantes, la aplicación del modelo de negocio <em>Canvas</em> se ha convertido en una herramienta de gran utilidad para comprender la dinámica del mercado y diseñar estrategias que permitan alcanzar resultados sostenibles en el tiempo. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-xl-10
@@ -157,17 +157,17 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Lo invitamos a consultar el siguiente enlace, donde podrá conocer qué es el Modelo Canvas, sus principales componentes y los pasos para estructurar un modelo de negocio. 
+                  p.mb-0 Lo invitamos a consultar el siguiente enlace, donde podrá conocer qué es el Modelo <em>Canvas</em>, sus principales componentes y los pasos para estructurar un modelo de negocio. 
                 .col-sm-auto.d-flex.gap-2.flex-column
-                  a.boton.color-acento-botones(href="https://www.tiendanube.com/blog/modelo-canvas/" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.tiendanube.com/blog/modelo-<em>Canvas</em>/" target="_blank")
                     span Ir al recurso
 
  
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Figura 2.
-      span Ejemplo de modelo de negocio Canvas - Empresa: Ecoalmuerzos Express
-    img.mb-4.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-mob.svg", alt="Ejemplo de modelo de negocio Canvas: Ecoalmuerzos Express. Diagrama que presenta los nueve bloques del modelo de negocio: socios clave, actividades clave, recursos clave, propuesta de valor, relación con clientes, canales, segmentos de clientes, estructura de costos y fuentes de ingresos. La propuesta de valor se enfoca en ofrecer almuerzos saludables, preparados con ingredientes frescos, entregados puntualmente y con planes de alimentación personalizados.")
-    img.mb-4.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/16.svg", alt="Ejemplo de modelo de negocio Canvas: Ecoalmuerzos Express. Diagrama que presenta los nueve bloques del modelo de negocio: socios clave, actividades clave, recursos clave, propuesta de valor, relación con clientes, canales, segmentos de clientes, estructura de costos y fuentes de ingresos. La propuesta de valor se enfoca en ofrecer almuerzos saludables, preparados con ingredientes frescos, entregados puntualmente y con planes de alimentación personalizados.")
+      span Ejemplo de modelo de negocio <em>Canvas</em> - Empresa: Ecoalmuerzos Express
+    img.mb-4.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-mob.svg", alt="Diagrama se representa así: socios clave, actividades clave, recursos clave, propuesta de valor, relación con clientes, canales, segmentos de clientes, estructura de costos y fuentes de ingresos. ")
+    img.mb-4.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/16.svg", alt="Diagrama se representa así: socios clave, actividades clave, recursos clave, propuesta de valor, relación con clientes, canales, segmentos de clientes, estructura de costos y fuentes de ingresos. ")
 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -179,8 +179,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 Modelo Canvas | Cómo aplicar el modelo Canvas en el lienzo | Ejemplo práctico 
-                  p.mb-0 Para afianzar los conocimientos sobre el modelo de negocio Canvas y comprender la aplicación práctica de sus componentes, lo invitamos a consultar el siguiente video, en el que se explica cómo diligenciar el lienzo y se presenta un ejemplo práctico de su aplicación: 
+                  h5.mb-1 Modelo <em>Canvas</em> | Cómo aplicar el modelo <em>Canvas</em> en el lienzo | Ejemplo práctico 
+                  p.mb-0 Para afianzar los conocimientos sobre el modelo de negocio <em>Canvas</em> y comprender la aplicación práctica de sus componentes, lo invitamos a consultar el siguiente video, en el que se explica cómo diligenciar el lienzo y se presenta un ejemplo práctico de su aplicación: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=i1Le5GYkBT8" target="_blank")
                     span Ir al recurso

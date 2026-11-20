@@ -69,8 +69,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span Curva de valor y comparación competitiva
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/4-mob.png", alt="Curva de valor que compara un restaurante con un competidor según precio, calidad, ambiente, diseño, localización y horario.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/4.png", alt="Curva de valor que compara un restaurante con un competidor según precio, calidad, ambiente, diseño, localización y horario.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/4-mob.svg", alt="Curva de valor que compara un restaurante con un competidor según precio, calidad, ambiente, diseño, localización y horario.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/4.svg", alt="Curva de valor que compara un restaurante con un competidor según precio, calidad, ambiente, diseño, localización y horario.")
         figcaption Nota. De Plantilla para representar la curva de valor, por Gerardo Marote, 2019. Fuente original: Gerardo Marote.
 
     TabsB.color-secundario.mb-4.z-2
@@ -161,8 +161,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 ¿Qué es la propuesta de valor? Cómo crearla y ejemplos - modelo Canvas 
-                  p.mb-0 Para fortalecer los conocimientos sobre la propuesta de valor y comprender su importancia dentro del modelo de negocio Canvas, se recomienda consultar el siguiente video, en el cual se explica de manera práctica este componente y su aplicación en la construcción de modelos de negocio. 
+                  h5.mb-1 ¿Qué es la propuesta de valor? Cómo crearla y ejemplos - modelo <em>Canvas</em> 
+                  p.mb-0 Para fortalecer los conocimientos sobre la propuesta de valor y comprender su importancia dentro del modelo de negocio <em>Canvas</em>, se recomienda consultar el siguiente video, en el cual se explica de manera práctica este componente y su aplicación en la construcción de modelos de negocio. 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=yvgNSHqb4_M" target="_blank")
                     span Ir al recurso

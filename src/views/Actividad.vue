@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Fundamentos y aplicación del modelo Canvas en los negocios ',
+      tema: 'Fundamentos y aplicación del modelo <em>Canvas</em> en los negocios ',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar la apropiación de conocimiento de los fundamentos y aplicación del modelo Canvas en los negocios.',
+        '<b> Objetivo:</b> verificar la apropiación de conocimiento de los fundamentos y aplicación del modelo <em>Canvas</em> en los negocios.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -30,7 +30,7 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es el propósito principal del modelo de negocio Canvas?',
+            '¿Cuál es el propósito principal del modelo de negocio <em>Canvas</em>?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -57,14 +57,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El modelo de negocio Canvas permite representar de manera visual cómo una organización crea, entrega y captura valor para sus clientes.',
+            'El modelo de negocio <em>Canvas</em> permite representar de manera visual cómo una organización crea, entrega y captura valor para sus clientes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
           texto:
-            '¿Cuál de los siguientes componentes pertenece al modelo de negocio Canvas?',
+            '¿Cuál de los siguientes componentes pertenece al modelo de negocio <em>Canvas</em>?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -90,7 +90,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Los segmentos de clientes son uno de los nueve componentes del modelo de negocio Canvas.',
+            'Los segmentos de clientes son uno de los nueve componentes del modelo de negocio <em>Canvas</em>.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

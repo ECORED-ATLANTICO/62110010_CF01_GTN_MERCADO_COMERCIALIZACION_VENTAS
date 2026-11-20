@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Planeación comercial y de mercadeo con Canvas',
+    Name: 'Planeación comercial y de mercadeo con <em>Canvas</em>',
     Description:
-      'El componente formativo aborda los fundamentos de la planeación comercial y de mercadeo mediante la aplicación del modelo de negocios Canvas como herramienta para el análisis y diseño estratégico. Integra elementos como la propuesta de valor, la curva de valor, la segmentación de mercados, el posicionamiento, el análisis del entorno y la formulación de estrategias comerciales, con el propósito de fortalecer la toma de decisiones y la estructuración de planes de acción orientados al logro de los objetivos organizacionales.',
+      'El componente formativo aborda los fundamentos de la planeación comercial y de mercadeo mediante la aplicación del modelo de negocios <em>Canvas</em> como herramienta para el análisis y diseño estratégico. Integra elementos como la propuesta de valor, la curva de valor, la segmentación de mercados, el posicionamiento, el análisis del entorno y la formulación de estrategias comerciales, con el propósito de fortalecer la toma de decisiones y la estructuración de planes de acción orientados al logro de los objetivos organizacionales.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Modelo de negocio Canvas',
+        titulo: 'Modelo de negocio <em>Canvas</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -222,7 +222,7 @@ export default {
         'Técnica de comparación con organizaciones referentes para identificar buenas prácticas y oportunidades de mejora.',
     },
     {
-      termino: 'Canvas',
+      termino: '<em>Canvas</em>',
       significado:
         'Herramienta visual utilizada para diseñar, analizar y gestionar modelos de negocio.',
     },
@@ -320,13 +320,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Cámara de Comercio de Bogotá. (2024). Herramientas para la planeación estratégica empresarial.',
-      link: 'https://www.ccb.org.co',
+        'Cámara de Comercio de Bogotá. (2020, junio). Taller: Define la estrategia empresarial - Confección. Biblioteca Digital CCB.',
+      link: 'https://bibliotecadigital.ccb.org.co/items/67b909b4-ac41-4ba8-88a6-aa765777dab5',
     },
     {
       referencia:
-        'Confecámaras. (2024). Competitividad, mercados y crecimiento empresarial en Colombia.',
-      link: 'https://www.confecamaras.org.co',
+        'Confecámaras. (2025, 4 de febrero). Dinámica de creación de empresas en Colombia 2024. ',
+      link: 'https://confecamaras.org.co/estudio/dinamica-de-creacion-de-empresas-en-colombia-2024/',
     },
     {
       referencia:
@@ -340,8 +340,8 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2024). Estrategias para el fortalecimiento empresarial y comercial.',
-      link: 'https://www.mincit.gov.co',
+        'Ministerio de Comercio, Industria y Turismo. (2026, 28 de mayo). Mipymes.',
+      link: 'https://www.mincit.gov.co/servicio-ciudadano/preguntas-frecuentes/mipymes',
     },
     {
       referencia:
@@ -349,13 +349,18 @@ export default {
       link: '',
     },
     {
+      referencia:
+        'Perea Cabal, C., & Acero Acosta, E. (2023). Estructuración de un plan de mercadeo agropecuario. Servicio Nacional de Aprendizaje (SENA).',
+      link: 'https://repositorio.sena.edu.co/handle/11404/8444',
+    },
+    {
       referencia: 'Porter, M. E. (2008). Ser competitivo. Ediciones Deusto.',
       link: '',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2025). Guía metodológica para la formulación de planes de mercadeo.',
-      link: 'https://www.sena.edu.co',
+        'Servicio Nacional de Aprendizaje (SENA). (2018). Guía metodológica para la formulación de planes de mercadeo.',
+      link: '',
     },
     {
       referencia:
@@ -364,8 +369,8 @@ export default {
     },
     {
       referencia:
-        'Superintendencia de Industria y Comercio. (2024). Guía de buenas prácticas comerciales y protección al consumidor.',
-      link: 'https://www.sic.gov.co',
+        'Superintendencia de Industria y Comercio. (2020, 1 de octubre). Guía de buenas prácticas en la publicidad a través de influenciadores. ',
+      link: 'https://sedeelectronica.sic.gov.co/transparencia/normativa/guia-de-buenas-practicas-en-la-publicidad-traves-de-influenciadores',
     },
   ],
   creditos: [
